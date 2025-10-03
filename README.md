@@ -25,16 +25,21 @@ Aplikasi to‑do responsif dengan fitur tambah tugas, tandai selesai, filter sta
 - `src/store/index.ts` — konfigurasi store.
 - `src/styles/todo.css` — gaya responsif & modern.
 
-## Menjalankan (Development)
+## Install Node_Modules
 ```bash
-npm run dev
+npm install
 ```
-Buka `http://localhost:3000`.
 
 ## Build Produksi
 ```bash
 npm run build
 ```
+
+## Menjalankan (Development)
+```bash
+npm run dev
+```
+Buka `http://localhost:3000`.
 
 ## Start Produksi (preview)
 ```bash
