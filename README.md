@@ -1,4 +1,4 @@
-# Frontend Test – To‑Do List
+# Frontend Test for Developer
 
 Aplikasi to‑do responsif dengan fitur tambah tugas, tandai selesai, filter status, pencarian, dan pengurutan sederhana. Dibangun dengan React + Redux Toolkit dan dijalankan dalam Next.js (App Router). Tidak ada data eksternal ataupun kolom kategori.
 
@@ -64,3 +64,18 @@ Lalu cantumkan di README:
 ## Pengembangan Lanjutan (Opsional)
 - Ganti pengurutan tombol `↑/↓` ke drag‑and‑drop dengan `@dnd-kit/core`.
 - Tambah penyimpanan lokal (`localStorage`) agar data tetap ada saat reload.
+
+## Preview
+<p align="center">
+  <img src="./public/images/photo_6266950957178490464_y.jpg" width="640" alt="App Preview 1" />
+</p>
+
+### More Screens
+<p align="center">
+  <img src="./public/images/photo_6266950957178490469_y.jpg" width="320" alt="App Preview 2" />
+  <img src="./public/images/photo_6266950957178490471_y.jpg" width="320" alt="App Preview 3" />
+</p>
+<p align="center">
+  <img src="./public/images/photo_6266950957178490472_y.jpg" width="320" alt="App Preview 4" />
+  <img src="./public/images/photo_6266950957178490474_y.jpg" width="320" alt="App Preview 5" />
+</p>
