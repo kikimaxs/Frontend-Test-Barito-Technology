@@ -51,16 +51,6 @@ npm run start
 - Layout mengikuti sketsa: layar daftar dengan tombol `＋`, layar “Add New” dengan tombol `Done`/`Back`.
 - Style utama ada di `src/styles/todo.css`; warna mengikuti variabel di `src/app/globals.css`.
 
-## Screenshot
-Tambahkan screenshot hasil aplikasi ke folder:
-- `public/screenshots/…`
-
-Lalu cantumkan di README:
-```markdown
-![Daftar Tugas](public/screenshots/list.png)
-![Add New](public/screenshots/add.png)
-```
-
 ## Pengembangan Lanjutan (Opsional)
 - Ganti pengurutan tombol `↑/↓` ke drag‑and‑drop dengan `@dnd-kit/core`.
 - Tambah penyimpanan lokal (`localStorage`) agar data tetap ada saat reload.
